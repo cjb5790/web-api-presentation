@@ -1,2 +1,3 @@
-# web-api-presentation
-Improving Perceived Page Performance with ASP.NET Web API and AJAX
+#Improving Perceived Page Performance with ASP.NET Web API and AJAX
+
+Javascript is quickly taking over the world. The line between client and server is becoming increasingly blurred and Microsoft is aboard the bandwagon. ASP.NET Web API gives us the ability to remove some of our service layer from the black box and begin interacting directly with the browser. Using Web API and AJAX, we can perform data operations asynchronously, improving our perceived page performance and providing a more seamless end-to-end user experience. In this session, we will walk through creating a Web Api controller, improve our confidence in working with Javascript and connect the dots between client and server.
